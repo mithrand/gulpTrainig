@@ -1,0 +1,9 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "linebreak-style": ["off", "windows"],
+    "no-console": ["error", { "allow": ["log","warn", "error"] }],
+    "arrow-body-style": ["off", "never"],
+    "object-curly-spacing": ["error", "never"]
+  }
+}
